@@ -1,0 +1,6 @@
+*.png
+*.swp
+.project
+.pydevproject
+*~
+*.pyc
